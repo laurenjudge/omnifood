@@ -1,4 +1,4 @@
-# omnifood
+# Omnifood
 Food delivery service
 Responsive design & jQuery 
 
